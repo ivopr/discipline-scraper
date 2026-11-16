@@ -459,20 +459,6 @@
   },
   {
     "name": "Metodologia da Pesquisa Cientifíca (Bionorte 02/2026)",
-    "institution": "IEC – Rede Bionorte (PA)",
-    "remote": true,
-    "inRondonia": false,
-    "regStart": null,
-    "regEnd": null,
-    "startDate": "2026-10-13",
-    "endDate": "2026-10-23",
-    "regUrl": "https://bionorte.org.br/disciplinas/detalhes-oferta.html?ido=2858",
-    "matches": [],
-    "note": "Aulas: 13/10/2026 a 23/10/2026. 08:00h às 12:30h VIRTUAL. Bionorte é doutorado em rede: confirme com a secretaria se aceita aluno de mestrado e como se inscrever (sem janela de inscrição publicada).",
-    "source": "bionorte"
-  },
-  {
-    "name": "Metodologia da Pesquisa Cientifíca (Bionorte 02/2026)",
     "institution": "UFPA – Rede Bionorte (PA)",
     "remote": true,
     "inRondonia": false,
@@ -483,6 +469,20 @@
     "regUrl": "https://bionorte.org.br/disciplinas/detalhes-oferta.html?ido=2860",
     "matches": [],
     "note": "Aulas: 18/09/2026 a 30/09/2026. 08:00h as 12:00h e das 14:00h às 18:00h VIRTUAL. Bionorte é doutorado em rede: confirme com a secretaria se aceita aluno de mestrado e como se inscrever (sem janela de inscrição publicada).",
+    "source": "bionorte"
+  },
+  {
+    "name": "Metodologia da Pesquisa Cientifíca (Bionorte 02/2026)",
+    "institution": "IEC – Rede Bionorte (PA)",
+    "remote": true,
+    "inRondonia": false,
+    "regStart": null,
+    "regEnd": null,
+    "startDate": "2026-10-13",
+    "endDate": "2026-10-23",
+    "regUrl": "https://bionorte.org.br/disciplinas/detalhes-oferta.html?ido=2858",
+    "matches": [],
+    "note": "Aulas: 13/10/2026 a 23/10/2026. 08:00h às 12:30h VIRTUAL. Bionorte é doutorado em rede: confirme com a secretaria se aceita aluno de mestrado e como se inscrever (sem janela de inscrição publicada).",
     "source": "bionorte"
   },
   {
