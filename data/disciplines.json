@@ -61,6 +61,19 @@
     "source": "edital"
   },
   {
+    "name": "Edital de aluno especial – UFG – PPGCC",
+    "institution": "UFG – PPGCC",
+    "remote": false,
+    "regStart": "2026-06-23",
+    "regEnd": "2026-07-13",
+    "enrollStart": "2026-08-05",
+    "enrollEnd": "2026-08-10",
+    "regUrl": "https://files.cercomp.ufg.br/weby/up/1289/o/EDITAL_ALUNOS_ESPECIAIS_PPGCC_2026-2_-_links_assinado.pdf",
+    "matches": [],
+    "note": "Dados lidos do PDF do edital. Confira o PDF antes de se inscrever.",
+    "source": "edital"
+  },
+  {
     "name": "Edital de aluno especial – UFES – PPGI",
     "institution": "UFES – PPGI",
     "remote": null,
