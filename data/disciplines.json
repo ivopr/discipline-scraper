@@ -74,32 +74,6 @@
     "source": "edital"
   },
   {
-    "name": "Edital de aluno especial – UFES – PPGI",
-    "institution": "UFES – PPGI",
-    "remote": null,
-    "regStart": "2026-07-01",
-    "regEnd": "2026-07-15",
-    "enrollStart": null,
-    "enrollEnd": null,
-    "regUrl": "https://informatica.ufes.br/sites/informatica.ufes.br/files/field/anexo/edital-aluno-especial-ppgi-2026-2.pdf",
-    "matches": [],
-    "note": "Dados lidos do PDF do edital. Confira o PDF antes de se inscrever.",
-    "source": "edital"
-  },
-  {
-    "name": "Edital de aluno especial – UFES – PPGI",
-    "institution": "UFES – PPGI",
-    "remote": null,
-    "regStart": "2026-02-10",
-    "regEnd": "2026-02-25",
-    "enrollStart": null,
-    "enrollEnd": null,
-    "regUrl": "https://informatica.ufes.br/sites/informatica.ufes.br/files/field/anexo/edital-aluno-especial-2026-1-v2.pdf",
-    "matches": [],
-    "note": "Dados lidos do PDF do edital. Confira o PDF antes de se inscrever.",
-    "source": "edital"
-  },
-  {
     "name": "Edital de aluno especial – UEPG – Computação Aplicada",
     "institution": "UEPG – Computação Aplicada",
     "remote": null,
@@ -629,5 +603,31 @@
     ],
     "note": "Seleção depende da aprovação do docente. Disciplinas (híbridas, com encontros presenciais em Cornélio Procópio): Seminários em Bioinformática; Mineração De Dados Para Bioinformática; Reconhecimento De Padrões; Tópicos Emergentes Em Bioinformática III.",
     "source": "utfpr"
+  },
+  {
+    "name": "Edital de aluno especial – UFES – PPGI",
+    "institution": "UFES – PPGI",
+    "remote": null,
+    "regStart": "2026-07-01",
+    "regEnd": "2026-07-15",
+    "enrollStart": null,
+    "enrollEnd": null,
+    "regUrl": "https://informatica.ufes.br/sites/informatica.ufes.br/files/field/anexo/edital-aluno-especial-ppgi-2026-2.pdf",
+    "matches": [],
+    "note": "Dados lidos do PDF do edital. Confira o PDF antes de se inscrever.",
+    "source": "edital"
+  },
+  {
+    "name": "Edital de aluno especial – UFES – PPGI",
+    "institution": "UFES – PPGI",
+    "remote": null,
+    "regStart": "2026-02-10",
+    "regEnd": "2026-02-25",
+    "enrollStart": null,
+    "enrollEnd": null,
+    "regUrl": "https://informatica.ufes.br/sites/informatica.ufes.br/files/field/anexo/edital-aluno-especial-2026-1-v2.pdf",
+    "matches": [],
+    "note": "Dados lidos do PDF do edital. Confira o PDF antes de se inscrever.",
+    "source": "edital"
   }
 ]
